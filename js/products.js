@@ -11,7 +11,7 @@ const PRODUCTS = [
      price: 3500,
     description: "منزلك دائماً نظيف من الناموس والذباب! 🏠✨",
     icon: "antinamous",
-    image: "https://share.google/vnuoTWdBhoiLxDsWG"
+    image: "https://share.google/gQSLVbQwX6vWMTjms"
   },
   {
     id: "p2",
