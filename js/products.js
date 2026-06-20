@@ -7,14 +7,9 @@
 const PRODUCTS = [
   {
     id: "p1",
-    name: ` Lampe Anti-Moustiques Électrique 10W Double Tube UV – مصيدة الباعوض",
-    price: 3500,
-    description: "منزلك دائماً نظيف من الناموس والذباب! 🏠✨
-لا بخاخات سامة، لا فوضى، فقط صاعق كهربائي فعّال وآمن 100%.
-🔹 تقنية جذب قوية.
-🔹 سهل التعليق والتنظيف.
-🔹 مثالي للاستخدام الداخلي.
-🛒 اطلب جهازك اليوم وقول وداعاً للحشرات!",
+    name: "Lampe Anti-Moustiques Électrique 6W Double Tube UV قاتل الحشرات",
+     price: 3500,
+    description: "منزلك دائماً نظيف من الناموس والذباب! 🏠✨",
     icon: "antinamous",
     image: "https://share.google/vnuoTWdBhoiLxDsWG"
   },
