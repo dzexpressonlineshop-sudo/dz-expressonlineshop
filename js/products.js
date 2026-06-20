@@ -7,11 +7,16 @@
 const PRODUCTS = [
   {
     id: "p1",
-    name: "سماعات بلوتوث لاسلكية",
+    name: ` Lampe Anti-Moustiques Électrique 10W Double Tube UV – مصيدة الباعوض",
     price: 3500,
-    description: "صوت نقي، بطارية تدوم طول النهار، تتوافق مع كل الهواتف.",
-    icon: "headphones",
-    image: ""
+    description: "منزلك دائماً نظيف من الناموس والذباب! 🏠✨
+لا بخاخات سامة، لا فوضى، فقط صاعق كهربائي فعّال وآمن 100%.
+🔹 تقنية جذب قوية.
+🔹 سهل التعليق والتنظيف.
+🔹 مثالي للاستخدام الداخلي.
+🛒 اطلب جهازك اليوم وقول وداعاً للحشرات!",
+    icon: "antinamous",
+    image: "https://share.google/vnuoTWdBhoiLxDsWG"
   },
   {
     id: "p2",
